@@ -11,7 +11,11 @@
 ### 🚀 Sobre mim
 
 ° 🏫 Estudo em tempo **integral** e faço curso técnico/integrado na área de **Internet**.
+
+
 ° 📚 Já concluí um curso de programação onde dei meus primeiros passos no mundo dev.
+
+
 ° 🎯 Atualmente focado em aprimorar minhas habilidades e aprender novas tecnologias!
 
 
