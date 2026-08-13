@@ -47,26 +47,27 @@
 ## 🎮 Meus Jogos Favoritos
 
 ° 🪓 **God of War**
+
+
 ° ⛏️ **Minecraft**
+
+
 ° 🎤 **Friday Night Funkin'**
+
+
 ° 🚌 **Fortnite**
 
 ---
 
 
-Clique no botão ou no quadrado animado abaixo para ir direto para o meu Instagram:
-
-[![Instagram](https://img.shields.org/badge/Instagram-@ryan__cascaes__viana-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryan_cascaes_viana/)
-
-<a href="https://www.instagram.com/ryan_cascaes_viana/" target="_blank">
-  <img src="https://media.giphy.com/media/3o7TKsjRrfIPjei8w0/giphy.gif" alt="Clique para ir ao Instagram" width="150" height="150" style="border-radius: 15px;" />
-</a>
-
-<div align="center">
+Clique no quadrado animado abaixo para ir direto para o meu Instagram:
+<div align="left">
   <a href="https://www.instagram.com/ryan_cascaes_viana/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Ryan" />
   </a>
 </div>
+
+
 
 
 
