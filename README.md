@@ -44,8 +44,6 @@
 
 
 
-# 🎮 Bem-vindo ao meu Perfil!
-
 ---
 
 ## 🎮 Meus Jogos Favoritos
